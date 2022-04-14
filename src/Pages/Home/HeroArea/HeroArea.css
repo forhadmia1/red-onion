@@ -1,0 +1,10 @@
+.hero-area{
+    background-image: url('../../../Assets/images/bannerbackground.png');
+    height: 60vh;
+}
+.search-input{
+    z-index: 0;
+}
+.search-btn{
+    z-index: 2;
+}
