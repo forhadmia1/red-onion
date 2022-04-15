@@ -1,6 +1,7 @@
 .hero-area{
     background-image: url('../../../Assets/images/bannerbackground.png');
-    height: 60vh;
+    height: 70vh;
+    background-size: cover;
 }
 .search-input{
     z-index:0 !important;
